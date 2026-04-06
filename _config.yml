@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Elias Lindgren / My Website"
+title                    : "Elias Lindgren
 title_separator          : "-"
 name                     : &name "Elias Lindgren"
 description              : &description "Elias Lindgren's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -24,13 +24,13 @@ repository               : "eaplindgren/eaplindgren.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Elias Lindgren"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "3rd year TCS Ph.D. student studying algorithmic economics \n email: firstname dot lastname at colorado dot edu"
+  location         : "Boulder, CO"
+  employer         : "University of Colorado, Boulder"
   uri              : # URL
-  email            : "none@example.org" 
+  # email            : "none@example.org" 
 
   # Academic websites
   academia         : # URL
