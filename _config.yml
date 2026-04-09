@@ -23,7 +23,7 @@ repository               : "eaplindgren/eaplindgren.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "picofme=cropped.jpeg"
+  avatar           : "picofme-cropped.jpeg"
   name             : "Elias Lindgren"
   pronouns         : # example: "she/her"  
   bio              : "3rd year Ph.D. student studying algorithmic economics at CU Boulder.\nemail: firstname dot lastname at colorado dot edu"
