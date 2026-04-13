@@ -11,5 +11,3 @@ I am a 3rd-year Ph.D. student in the [CS Theory Group](https://www.colorado.edu/
 I am broadly interested in algorithmics economics, with a particular interest in mechanism design, information elicitation, and social choice.
 
 You can find my CV [here](https://eaplindgren.github.io/files/mycv.pdf).
-
-## Publications
