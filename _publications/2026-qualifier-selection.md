@@ -8,5 +8,5 @@ date: 2026-04-01
 # venue: 'preprint'
 # slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
 # paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Lindgren, Elias, and Waggoner, Bo (2026). "Qualifier Selection Mechanisms in Collegiate Cross Country."'
+# citation: 'Lindgren, Elias, and Waggoner, Bo (2026). "Qualifier Selection Mechanisms in Collegiate Cross Country."'
 ---
