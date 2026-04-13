@@ -9,3 +9,4 @@ excerpt: 'We develop a theory of liquidity provisioning for AMM prediction marke
 # slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
 # paperurl: 'https://academicpages.github.io/files/paper2.pdf'
 citation: 'Bhaskara, Adithya, Rafael Frongillo, Elias Lindgren, and Maneesha Papireddygari. "A General Theory of Liquidity Provisioning for Prediction Markets." In submission.'
+---

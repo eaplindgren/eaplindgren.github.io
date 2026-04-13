@@ -9,3 +9,4 @@ excerpt: 'We analyze the algorithm used in NCAA Division I Cross Country to sele
 # slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
 # paperurl: 'https://academicpages.github.io/files/paper3.pdf'
 citation: 'Lindgren, Elias, and Waggoner, Bo (2026). "Qualifier Selection Mechanisms in Collegiate Cross Country." In submission.'
+---
