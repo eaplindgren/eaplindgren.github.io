@@ -2,7 +2,7 @@
 title: "Combinatorial Markov Search"
 collection: publications
 category: conferences
-# permalink: /publication/2026-04-01-combinatorial-markov-search
+permalink: /publication/2026-04-01-combinatorial-markov-search
 excerpt: "We explore an extension of the Pandora's box problem where each box is modeled as an MDP. We obtain a constant-factor approximation using a Prophet Inequality-style algorithm that considers boxes one at a time."
 date: 2026-04-01
 venue: 'Symposium on Theory of Computing'
