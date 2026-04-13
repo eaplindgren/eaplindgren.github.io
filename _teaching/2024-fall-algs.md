@@ -4,5 +4,5 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2024-fall-algs
 venue: "University of Colorado, Boulder"
-date: Fall 2024
-location: "Boulder, CO, USA"
+date: 09/01/2024
+# location: "Boulder, CO, USA"
